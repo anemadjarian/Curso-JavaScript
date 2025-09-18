@@ -1,14 +1,36 @@
-# 📚 Curso de JavaScript – Curso em Vídeo
+# 🧠 Curso de JavaScript
 
-Este repositório tem como objetivo documentar e armazenar os exercícios e projetos desenvolvidos durante o **Curso de JavaScript**, oferecido gratuitamente pela plataforma **Curso em Vídeo** e ministrado pelo professor **Gustavo Guanabara**.
+Este repositório tem como objetivo documentar e armazenar os exercícios e projetos desenvolvidos durante o Curso de JavaScript, oferecido gratuitamente pela plataforma Curso em Vídeo.
 
 ---
 
-## 🧠 Sobre o Curso
+## 📘 Sobre
 
-O curso aborda os principais fundamentos da linguagem **JavaScript**, com foco em lógica de programação, manipulação do DOM, interatividade em páginas web e boas práticas de desenvolvimento.  
-
-📍 **Plataforma:** Curso em Vídeo  
+📌 **Nome:** JavaScript
+🏫 **Tipo:** Curso Online  
+🎓 **Plataforma:** Curso em Vídeo  
 👨‍🏫 **Professor:** Gustavo Guanabara  
-🎯 **Status:** Em andamento 
-📅 **Data de início:** 28/08/2025
+⌚ **Horas:** 40 horas
+🎯 **Status:** Em andamento  
+📅 **Início:** 28/08/2025  
+
+---
+
+## 📚 Conteúdos Abordados
+
+- Node.js
+- Variáveis e Tipos Primitivos
+- Tratamento de Dados
+- Operadores
+- DOM
+- Condições
+- Repetições
+- Varáveis Compostas
+- Funções
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Linguagem: JavaScript
+- IDE: VSCode
