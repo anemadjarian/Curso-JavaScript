@@ -6,7 +6,7 @@ Este repositório tem como objetivo documentar e armazenar os exercícios e proj
 
 ## 📘 Sobre
 
-📌 **Nome:** JavaScript
+📌 **Nome:** JavaScript  
 🏫 **Tipo:** Curso Online  
 🎓 **Plataforma:** Curso em Vídeo  
 👨‍🏫 **Professor:** Gustavo Guanabara  
