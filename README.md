@@ -11,6 +11,4 @@ O curso aborda os principais fundamentos da linguagem **JavaScript**, com foco e
 📍 **Plataforma:** Curso em Vídeo  
 👨‍🏫 **Professor:** Gustavo Guanabara  
 🎯 **Status:** Em andamento 
-📅 **Data de início:** 
-
----
+📅 **Data de início:** 28/08/2025
