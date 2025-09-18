@@ -10,7 +10,7 @@ Este repositório tem como objetivo documentar e armazenar os exercícios e proj
 🏫 **Tipo:** Curso Online  
 🎓 **Plataforma:** Curso em Vídeo  
 👨‍🏫 **Professor:** Gustavo Guanabara  
-⌚ **Horas:** 40 horas
+⌚ **Horas:** 40 horas  
 🎯 **Status:** Em andamento  
 📅 **Início:** 28/08/2025  
 
